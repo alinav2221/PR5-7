@@ -13,6 +13,7 @@ namespace PractWork5
 {
     public partial class MainForm : Form
     {
+//edit
         public MainForm()
         {
             InitializeComponent();
