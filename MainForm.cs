@@ -18,7 +18,7 @@ namespace PractWork5
             InitializeComponent();
         }
         int d, n, crypt = 1, file= 0, fldr = 0;
-
+        //btn
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
